@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/tjexample.dir/tjexample.c.o -o tjexample  -Wl,-rpath,/home/jfsil/libjpeg-turbo/fuzz libturbojpeg.so.0.3.0 
