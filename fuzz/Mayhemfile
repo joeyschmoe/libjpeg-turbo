@@ -5,7 +5,7 @@ project: hackathon
 target: cjpeg
 
 # Base image to run the binary in.
-image: ghcr.io/joeyschmoe/cjpeg:latest
+image: ghcr.io/joeyschmoe/libjpeg-turbo/fuzz/cjpeg:latest
 
 # List of commands used to test the target
 cmds:
